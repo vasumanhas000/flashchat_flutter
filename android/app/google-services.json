@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "766618405234",
+    "firebase_url": "https://flash-chat-b8ff6.firebaseio.com",
+    "project_id": "flash-chat-b8ff6",
+    "storage_bucket": "flash-chat-b8ff6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766618405234:android:434f886842603c9dbf35eb",
+        "android_client_info": {
+          "package_name": "co.VasuManhas.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766618405234-uqb9pkoht4vppcpecogl5ekqr58i9kls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLPsvlRvoSkHU7GUfkSkze8VPXZBmUv5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766618405234-uqb9pkoht4vppcpecogl5ekqr58i9kls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
